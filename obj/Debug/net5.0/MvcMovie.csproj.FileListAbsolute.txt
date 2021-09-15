@@ -39,3 +39,5 @@ D:\Netcore\MvcMovie\obj\Debug\net5.0\MvcMovie.pdb
 D:\Netcore\MvcMovie\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache
 D:\Netcore\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CopyComplete
 D:\Netcore\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_LayoutNew.cshtml.g.cs
+D:\Netcore\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\index.cshtml.g.cs
+D:\Netcore\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\GetName.cshtml.g.cs
